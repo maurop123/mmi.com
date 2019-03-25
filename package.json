@@ -1,9 +1,13 @@
 {
   "name": "mauromadeit.com",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "mauromadeit.com vuepress site",
   "main": "index.js",
   "scripts": {
+    "build": "vuepress build content",
+    "launch": "rsync -raze \"ssh -i ../../.ssh/godaddy.pem\" --progress --delete ~/code/mmi/content/.vuepress/dist/ mauromadeit@160.153.41.2:/home/mauromadeit/public_html/mauromadeit/",
+    "deploy": "npm run build && npm run launch",
+    "serve": "vuepress dev content",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -23,5 +27,8 @@
   "bugs": {
     "url": "https://github.com/maurop123/mmi.com/issues"
   },
-  "homepage": "https://github.com/maurop123/mmi.com#readme"
+  "homepage": "https://github.com/maurop123/mmi.com#readme",
+  "devDependencies": {
+    "vuepress": "^1.0.0-alpha.44"
+  }
 }
