@@ -1,0 +1,27 @@
+{
+  "name": "mauromadeit.com",
+  "version": "0.1.0",
+  "description": "mauromadeit.com vuepress site",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maurop123/mmi.com.git"
+  },
+  "keywords": [
+    "mauromadeit",
+    "vuepress",
+    "mauro",
+    "developer",
+    "javascript",
+    "vue"
+  ],
+  "author": "Mauro Perez <maurop123@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maurop123/mmi.com/issues"
+  },
+  "homepage": "https://github.com/maurop123/mmi.com#readme"
+}
