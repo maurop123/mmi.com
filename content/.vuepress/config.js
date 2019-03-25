@@ -47,7 +47,7 @@ module.exports = {
           ],
         },
         {
-          title: 'Old',
+          title: 'Articles',
           children: [
             'old/power-of-instead',
           ],
