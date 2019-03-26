@@ -21,7 +21,7 @@ You only need the first 2 ingredients though.
 
 Then I put the dates and shredded coconut in the food processor...
 
-![mix ingredients](https://media.giphy.com/media/5wFxrGdj0pg1NEDir7/giphy.gif)
+<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/5wFxrGdj0pg1NEDir7" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/5wFxrGdj0pg1NEDir7">via GIPHY</a></p>
 
 ...and mixed them until the mixture was crumbly.
 
@@ -31,7 +31,7 @@ The recipe cautions to not to over process them, or else the mixture can get too
 
 Then I added the rest of the ingredients and processed!
 
-![mix ingredients](https://media.giphy.com/media/1wqK5zN51y9JMXJwyt/giphy.gif)
+<div style="width:100%;height:0;padding-bottom:84%;position:relative;"><iframe src="https://giphy.com/embed/1wqK5zN51y9JMXJwyt" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/1wqK5zN51y9JMXJwyt">via GIPHY</a></p>
 
 Mmmm! Looks good, huh?
 
@@ -41,4 +41,4 @@ So I dumped the mixture out, and hand-pressed it into a few small heaps, and the
 
 Finally, I pressed that heap into a rectangle, cut up the separate bars, and wrapped each one with saran wrap. It looked something like this...
 
-![mix ingredients](https://media.giphy.com/media/PoImxJeEmo58F6XjBV/giphy.gif)
+<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/PoImxJeEmo58F6XjBV" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/PoImxJeEmo58F6XjBV">via GIPHY</a></p>
