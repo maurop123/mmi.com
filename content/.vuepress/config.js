@@ -32,6 +32,12 @@ module.exports = {
           title: 'March',
           children: [
             {
+              title: '25th',
+              children: [
+                'daily/03/25/palm-tree',
+              ],
+            },
+            {
               title: '24th',
               children: [
                 'daily/03/24/homemade-lara-bars',
