@@ -3,7 +3,10 @@ module.exports = {
   themeConfig: {
     lastUpdated: 'Last updated',
     nav: [
-      { text: 'Home', link: '/daily/03/25/palm-tree.md' },
+      {
+        text: 'Home',
+        link: '/daily/03/27/airtable-tracker',
+      },
       // { text: 'Projects', link: '/projects/tetris-progressive-web-app' },
       // { text: 'Tips & Tricks', link: '/tips/vuetify-rules-context' },
     ],
@@ -31,6 +34,18 @@ module.exports = {
         {
           title: 'March',
           children: [
+            {
+              title: '27th',
+              children: [
+                'daily/03/27/airtable-tracker',
+              ],
+            },
+            {
+              title: '26th',
+              children: [
+                'daily/03/26/improv-like-convo',
+              ],
+            },
             {
               title: '25th',
               children: [
