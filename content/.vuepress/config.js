@@ -5,7 +5,7 @@ module.exports = {
     nav: [
       {
         text: 'Home',
-        link: '/daily/03/27/airtable-tracker',
+        link: '/daily/03/28/sudo-fetch',
       },
       // { text: 'Projects', link: '/projects/tetris-progressive-web-app' },
       // { text: 'Tips & Tricks', link: '/tips/vuetify-rules-context' },
@@ -34,6 +34,12 @@ module.exports = {
         {
           title: 'March',
           children: [
+            {
+              title: '28th',
+              children: [
+                'daily/03/28/sudo-fetch',
+              ],
+            },
             {
               title: '27th',
               children: [

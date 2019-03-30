@@ -1,6 +1,12 @@
-# Things I Learned From Improv
+# Improv Is Like A Conversation
 
-So I just finished a 2.5 month *improv* course. Graduation was last Tuesday and it was great!
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fbeardnakedladies%2Fphotos%2Fa.2296581820598075%2F2296584577264466%2F%3Ftype%3D3&width=500" width="500" height="503" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
+
+Last Tuesday was graduation day for the Beard Naked Ladies VT1 class. After just 2.5 months, a group of strangers not became a team exploring the strange new world of *Improv*
+
+A teammate recently said that he believed that improv makes you a better person.
+
+and hey, if it can help you learn to speak in front of large audiences, as well as in private conversations, all the while learning to relax and have fun, it sounds like he's got a point. But how does it it do it? Here are some of the things I learned while doing improv...
 
 Why did I try improv? Why does anyone try improv? I've asked the people I met there, and this is what I heard
 
@@ -10,7 +16,6 @@ Why did I try improv? Why does anyone try improv? I've asked the people I met th
 
 Some had prior acting experience or interest, but otherwise these were the common themes
 
-Recently a friend from class told me that he believed that improv makes you a better person, and hey, if it can help you learn to speak in front of large audiences, as well as in private conversations, all the while learning to relax and have fun, it sounds like he's got a point. But how does it it do it? Here are some of the things I learned while doing improv...
 
 ## Improv is a lot like a normal conversation
 
