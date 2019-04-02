@@ -1,5 +1,5 @@
 ---
-next: ./daily/03/28/sudo-fetch
+next: ./daily/04/01/life-is-a-game
 ---
 
 # Welcome!
