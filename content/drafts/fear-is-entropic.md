@@ -1,0 +1,2 @@
+Did you know that fear is an entropic force? Like all forms of resistance, its essential function is to hit the brakes on some course of action or flow of life. Temporarily tensing in fear can help to avoid danger or stand pain, but we aren't meant to get stuck there and many of us do. Many of us learn to endure a lot of prolonged pain and we become "traumatized", stuck in fight-or-flight mode. All growth stagnates
+https://kotaku.com/30-players-embrace-their-darker-instincts-in-a-grueling-5936625
