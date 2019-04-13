@@ -2,7 +2,7 @@
 tags: IoT
 ---
 
-# On Making Smart ACs With Sentree
+# Sentree Smart ACs
 
 ![sentree homepage](/imgs/sentree-homepage.jpg)
 
