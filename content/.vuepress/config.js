@@ -6,6 +6,7 @@ module.exports = {
         title: 'Projects',
         children: [
           'sentree',
+          'navigate-miami',
           'colorado-cannabis-tours',
         ],
       },
