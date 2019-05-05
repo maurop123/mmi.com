@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "name": "mauromadeit.com",
   "version": "1.0.0",
   "description": "mauromadeit.com vuepress site",
@@ -30,5 +31,18 @@
   "homepage": "https://github.com/maurop123/mmi.com#readme",
   "devDependencies": {
     "vuepress": "^1.0.0-alpha.44"
+=======
+  "name": "mmi",
+  "version": "0.1.0",
+  "description": "mauromadeit.com v5",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "vuepress": "^1.0.0-alpha.47"
+>>>>>>> ba588b1e833f5117d2d076792da801528786e470
   }
 }

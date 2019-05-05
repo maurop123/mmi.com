@@ -1,6 +1,7 @@
 module.exports = {
   title: 'Mauro Made It',
   themeConfig: {
+<<<<<<< HEAD
     lastUpdated: 'Last updated',
     nav: [
       {
@@ -100,4 +101,17 @@ module.exports = {
     },
   },
   ga: 'UA-116400276-1',
+=======
+    sidebar: [
+      {
+        title: 'Projects',
+        children: [
+          'sentree',
+          'navigate-miami',
+          'colorado-cannabis-tours',
+        ],
+      },
+    ],
+  },
+>>>>>>> ba588b1e833f5117d2d076792da801528786e470
 }
