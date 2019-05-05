@@ -1,5 +1,5 @@
 ---
-next: ./daily/04/01/life-is-a-game
+next: ./daily/04/27/emerge-hackathon
 ---
 
 # Welcome!

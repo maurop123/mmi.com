@@ -5,7 +5,7 @@ module.exports = {
     nav: [
       {
         text: 'Home',
-        link: '/daily/04/01/life-is-a-game',
+        link: '/daily/04/27/emerge-hackathon',
       },
       // { text: 'Projects', link: '/projects/tetris-progressive-web-app' },
       // { text: 'Tips & Tricks', link: '/tips/vuetify-rules-context' },
@@ -34,6 +34,12 @@ module.exports = {
         {
           title: 'April',
           children: [
+            {
+              title: '27th',
+              children: [
+                'daily/04/27/emerge-hackathon',
+              ],
+            },
             {
               title: '1st',
               children: [
